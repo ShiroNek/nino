@@ -1,19 +1,10 @@
 let handler  = async (m, { conn, usedPrefix: _p }) => {
   conn.reply(m.chat, `
 
-_Spesial Thanks To:_
-Nurotomo
+Welcome to [MIZA] Bot^~^
 
-_Rec Bye:_
-Drawl Nag
+Owner: Wa.me/6285540514071
 
-Owner: Wa.me/6288235435804
-
-*🎥 YouTube:* 
-https://www.youtube.com/c/DrawlNag
-
-*Github:*
-https://github.com/Arya274/Arya-Bot
 
 ➸ Prefix:  *「 ${_p} 」*
 ➸ Status: *「 Online 」*
