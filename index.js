@@ -77,8 +77,8 @@ conn.handler = async function (m) {
 
 conn.on('message-new', conn.handler) 
 
-global.mods = ['6281357302007@s.whatsapp.net']
-global.prems = ['6288235435804@s.whatsapp.net']
+global.mods = ['6285540514071@s.whatsapp.net']
+global.prems = ['6285540514071@s.whatsapp.net']
 
 function printMsg(m) {
   let sender = conn.getName(m.sender) || m.messageStubParameters.map(v => v.split('@')[0] + (conn.getName(v) ? ' ~' + conn.getName(v) : '')).join(' & ')
