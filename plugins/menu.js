@@ -3,8 +3,6 @@ let handler  = async (m, { conn, usedPrefix: _p }) => {
 
 Welcome to [MIZA] Bot^~^
 
-Owner: Wa.me/6285540514071
-
 
 ➸ Prefix:  *「 ${_p} 」*
 ➸ Status: *「 Online 」*
